@@ -1,5 +1,6 @@
 #include "sim_remote_control.h"
 
+
 void readInput(void){
   char input;
 

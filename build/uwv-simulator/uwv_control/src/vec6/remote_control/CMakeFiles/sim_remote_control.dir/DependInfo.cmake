@@ -33,7 +33,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/include/gazebo-11"
   "/usr/include/bullet"
   "/usr/include/simbody"
-  "/usr/include/sdformat-9.5"
+  "/usr/include/sdformat-9.8"
   "/usr/include/ignition/math6"
   "/usr/include/OGRE"
   "/usr/include/OGRE/Terrain"
@@ -43,6 +43,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/include/ignition/common3"
   "/usr/include/ignition/fuel_tools4"
   "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/common"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/remote_control/include"
   )
 
 # Targets to which this target links.
